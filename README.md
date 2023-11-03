@@ -1,15 +1,10 @@
-# Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query
-[![Social Media](https://i.ibb.co/k4BQtdP/Thumbnail.png)](https://youtu.be/_W3R2VwRyF4)
+Important url for running live code 
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
 
-## Next.js 13 eBook & Course
-📚 https://resource.jsmastery.pro/nextjs-guide
-
-## Summary
-Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.
-
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
-# social_media_app
+VITE_APPWRITE_URL=https://cloud.appwrite.io/v1
+VITE_APPWRITE_PROJECT_ID='6544ac07de6107bf878f'
+VITE_APPWRITE_DATABASE_ID='6544bdb5bf7dbace0957'
+VITE_APPWRITE_STORAGE_ID='6544ac4d5f5fb5fcc693'
+VITE_APPWRITE_USER_COLLECTION_ID='6544be0e331c96895475'
+VITE_APPWRITE_POST_COLLECTION_ID='6544bdeb328a07e55db4'
+VITE_APPWRITE_SAVES_COLLECTION_ID='6544be276d132a3fff79'
